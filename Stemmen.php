@@ -39,4 +39,4 @@ foreach ($stemmen as $key => $value){
 
 printf("\nTotaal van de percentages: %.2f",$totaalpercent);
 //test
-//dit is een tweede test
+//dit is een twe
